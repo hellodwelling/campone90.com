@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://campone90.com/sitemap.xml
